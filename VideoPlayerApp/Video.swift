@@ -4,7 +4,7 @@
 //
 //  Created by Din Salehy on 2025-03-04.
 //
-
+/*
 import Foundation
 
 struct Video: Identifiable {
@@ -13,8 +13,8 @@ struct Video: Identifiable {
     let fileName: String
     
 }
+*/
 
-/*
 import SwiftUI
 
 struct Video: Identifiable {
@@ -24,4 +24,3 @@ struct Video: Identifiable {
     let thumbnail: UIImage?
     let duration: String
 }
-*/
